@@ -1,0 +1,26 @@
+.show-summary {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .show-summary h1 {
+    margin-bottom: 10px;
+  }
+  
+  .show-summary p {
+    line-height: 1.5;
+  }
+  
+  .show-summary button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .show-summary button:hover {
+    background-color: #0056b3;
+  }
+  
